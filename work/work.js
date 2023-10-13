@@ -25,7 +25,7 @@ work=[
     A portal to transport me
     An augmented window in my office 
     [side w hologram.jpg]
-    
+    '
   },
     
              {  "folder":"AOT",
@@ -88,7 +88,7 @@ work=[
     [AOT.png]
     [AOT foreward.png]
 
-        
+       ' 
   }
     
 
@@ -118,7 +118,7 @@ For this, I chose
 
 [chainsmokers.jpeg]
     
-      
+      '
       
   }
 
@@ -132,7 +132,7 @@ For this, I chose
 
 <a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi" target="_blank">UCLA Intro to Programming for the Visual Arts in p5.js</a>
 
-my Stained Glass pieces
+'my Stained Glass pieces'
          [thumb.jpg]
   
       
