@@ -127,7 +127,7 @@ For this, I chose
          
      {  "folder":"StainedGlass",
     "name":"p6.js",
-    "tags":"p6.js",
+    "tags":"glass",
     "thumb":"thumb.jpg",
     "content":`stained glass work
 
