@@ -125,7 +125,7 @@ For this, I chose
          , 
         
          
-     {  "folder":"p6",
+     {  "folder":"StainedGlass",
     "name":"p6.js",
     "tags":"p6.js",
     "thumb":"IMG_4989.jpeg",
