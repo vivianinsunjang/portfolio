@@ -128,7 +128,7 @@ For this, I chose
      {  "folder":"StainedGlass",
     "name":"p6.js",
     "tags":"p6.js",
-    "thumb":"IMG_4989.jpeg",
+    "thumb":"thumb.jpeg",
     "content":`stained glass work
 
 <a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi" target="_blank">UCLA Intro to Programming for the Visual Arts in p5.js</a>
