@@ -132,13 +132,14 @@ For this, I chose
 
 <a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi" target="_blank">UCLA Intro to Programming for the Visual Arts in p5.js</a>
 
-'my Stained Glass pieces'
+my Stained Glass pieces`
          [thumb.jpg]
   
       
       
-  }] /*,
-
+  }] 
+  
+  /*,
 
      {  "folder":"GxK",
     "name":"Germany x Korea",
