@@ -127,7 +127,7 @@ For this, I chose
 
 My Stained Glass pieces 
         
-  [first.JPG] design by  <a href="https://www.etsy.com/shop/TEHAUSGlass?ref=nla_listing_details"> TEHAUSGlass </a> 
+  [first.JPG] design by  <a href="https://www.etsy.com/shop/TEHAUSGlass"> TEHAUSGlass </a> 
    [IMG_4989.jpeg] design by <a href="https://himedel.tumblr.com/image/160350373355">himedel </a> 
   [last.JPG] design by <a href="https://himedel.tumblr.com/post/143030670265" target="_blank">himedel </a>
 
