@@ -125,7 +125,7 @@ For this, I chose
     "thumb":"thumb.jpg",
     "content":`
 
-My Stained Glass pieces designed by others:
+My Stained Glass pieces 
         
   [first.JPG] design by  <a href="https://www.etsy.com/shop/TEHAUSGlass?ref=nla_listing_details"> TEHAUSGlass </a> 
    [IMG_4989.jpeg] design by <a href="https://himedel.tumblr.com/image/160350373355">himedel </a> 
