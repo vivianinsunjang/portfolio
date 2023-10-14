@@ -120,14 +120,12 @@ For this, I chose
         
          
      {  "folder":"StainedGlass",
-    "name":"p6.js",
+    "name":"Stained Glass",
     "tags":"glass",
     "thumb":"thumb.jpg",
-    "content":`stained glass work
+    "content":`
 
-<a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi" target="_blank">UCLA Intro to Programming for the Visual Arts in p5.js</a>
-
-my Stained Glass pieces
+My Stained Glass pieces designed by others:
         
   [first.JPG]
    [IMG_4989.jpeg] design credit <a href="https://himedel.tumblr.com/image/160350373355">himedel </a> 
