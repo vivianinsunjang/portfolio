@@ -122,7 +122,7 @@ For this, I chose
      {  "folder":"StainedGlass",
     "name":"Stained Glass",
     "tags":"Stained Glass, UrbanGlass",
-    "thumb":"thumb.JPG",
+    "thumb":"thumb.png",
     "content":`
 
 My Stained Glass pieces 
