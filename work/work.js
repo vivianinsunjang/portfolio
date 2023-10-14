@@ -141,7 +141,7 @@ My Stained Glass pieces
      {  "folder":"Languages",
     "name":"Language Play",
     "tags":"Languages, Linguistics,Data Visualization, Patterns",
-    "thumb":"thumb.jpg",
+    "thumb":"thumb.png",
     "content":`
 
 Word Play and Patterns among the Languages I know
