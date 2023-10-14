@@ -134,6 +134,24 @@ My Stained Glass pieces
       `
       
   }
+         ,
+          
+        
+         
+     {  "folder":"Languages",
+    "name":"Language Play",
+    "tags":"Languages, Linguistics,Data Visualization, Patterns",
+    "thumb":"thumb.jpg",
+    "content":`
+
+Word Play and Patterns among the Languages I know
+        
+  [flags.png]
+  [hats.png]
+
+      `
+      
+  }
 ] 
   
   /*,
