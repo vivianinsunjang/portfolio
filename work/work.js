@@ -91,7 +91,7 @@ work=[
        {  "folder":"p5",
     "name":"Programming for the Visual Arts",
     "tags":"Programming, Visual Arts, p5.js, UCLA",
-    "thumb":"thumb.jpeg",
+    "thumb":"thumb.png",
     "content":`a p5.js class I took and the assignments I did as part of the coursework
 
 <a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi" target="_blank">UCLA Intro to Programming for the Visual Arts in p5.js</a>
