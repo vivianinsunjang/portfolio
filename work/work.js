@@ -128,8 +128,10 @@ For this, I chose
 <a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi" target="_blank">UCLA Intro to Programming for the Visual Arts in p5.js</a>
 
 my Stained Glass pieces
-         [IMG_4989.jpeg]
-  
+        
+  [first.jpg]
+   [IMG_4989.jpeg]
+  [last.jpg]
       `
       
   }
