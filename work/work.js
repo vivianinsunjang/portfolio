@@ -37,15 +37,10 @@ work=[
     Not long after I started reading, I noticed something
     [masc.gif]
     the book used exclusively masculine words.
-    Triggered, I immediately went to work,
-    
-    [triggered.gif]
-    
-    replacing the masculine words with feminine ones.
+    Triggered, I immediately went to work, replacing the masculine words with feminine ones.
     [table.jpeg]
 
-    I created a new version of the book,
-    for women.
+    I created a new version of the book, this time for women.
     [AAWT.png]
     Content with my handiwork, I was ready to declare victory and move on.
    
@@ -56,7 +51,6 @@ work=[
     I felt I was missing something.
    
     I went to find out more about the author. 
-    [google.gif]
     [wiki.gif]
     This book was written 100+ years ago in 1903?!
     I started to feel silly about my triggered reaction.
