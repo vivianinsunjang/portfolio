@@ -89,8 +89,8 @@ work=[
 
 ,
        {  "folder":"p5",
-    "name":"p5.js",
-    "tags":"p5.js",
+    "name":"Programming for the Visual Arts",
+    "tags":"Programming, Visual Arts, p5.js, UCLA",
     "thumb":"thumb.jpg",
     "content":`a p5.js class I took and the assignments I did as part of the coursework
 
@@ -121,7 +121,7 @@ For this, I chose
          
      {  "folder":"StainedGlass",
     "name":"Stained Glass",
-    "tags":"glass",
+    "tags":"Stained Glass, UrbanGlass",
     "thumb":"thumb.jpg",
     "content":`
 
