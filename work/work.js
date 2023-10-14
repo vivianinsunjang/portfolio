@@ -129,9 +129,9 @@ For this, I chose
 
 my Stained Glass pieces
         
-  [first.jpg]
+  [first.JPG]
    [IMG_4989.jpeg]
-  [last.jpg]
+  [last.JPG]
       `
       
   }
