@@ -146,14 +146,14 @@ My Stained Glass pieces
 
 Word Play and Patterns among the Languages I know
         
-  [flags.png]
-  [hats.png]
-[b.png]
-[E.png]
-[flipped.png]
-[numbers.png]
-[symbols.png]
-[g.png]
+  [flags.png] <br>
+  [hats.png] <br>  
+[b.png] <br>
+[E.png] <br>
+[flipped.png] <br>
+[numbers.png] <br>
+[symbols.png] <br>
+[g.png] <br>
 [uh.png]
      `
       
