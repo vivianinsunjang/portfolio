@@ -131,7 +131,8 @@ my Stained Glass pieces
         
   [first.JPG]
    [IMG_4989.jpeg]
-  [last.JPG]
+  [last.JPG] design credit <a href="https://himedel.tumblr.com/post/143030670265" target="_blank">himedel </a>
+
       `
       
   }
