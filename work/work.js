@@ -122,7 +122,7 @@ For this, I chose
      {  "folder":"StainedGlass",
     "name":"Stained Glass",
     "tags":"Stained Glass, UrbanGlass",
-    "thumb":"thumb.jpg",
+    "thumb":"thumb.JPG",
     "content":`
 
 My Stained Glass pieces 
@@ -148,8 +148,14 @@ Word Play and Patterns among the Languages I know
         
   [flags.png]
   [hats.png]
-
-      `
+[b.png]
+[E.png]
+[flipped.png]
+[numbers.png]
+[symbols.png]
+[g.png]
+[uh.png]
+     `
       
   }
 ] 
