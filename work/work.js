@@ -155,7 +155,12 @@ Word Play and Patterns among the Languages I know
 /*[symbols.png] <br> */
 [g.png] <br>
 [uh.png] <br>
-[SpainRussia.png]
+[KoreaSpain.png] <br>
+[KoreaGermany.png] <br>
+[KoreaRussia.png] <br>
+[SpainGermany.png] <br>
+[SpainRussia.png] <br>
+[GermanyRussia.png] <br>
 
      `
       
