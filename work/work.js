@@ -152,15 +152,15 @@ Word Play and Patterns among the Languages I know
 [E.png] <br>
 [flipped.png] <br>
 [numbers.png] <br>
-// [symbols.png] <br> 
+[symbols.png] <br> 
 [g.png] <br>
 [uh.png] <br>
-[KoreaSpain.png] <br>
-[KoreaGermany.png] <br>
-[KoreaRussia.png] <br>
-[SpainGermany.png] <br>
-[SpainRussia.png] <br>
-[GermanyRussia.png] <br>
+[KoreaSpain.png] 
+[KoreaGermany.png] 
+[KoreaRussia.png] 
+[SpainGermany.png] 
+[SpainRussia.png] 
+[GermanyRussia.png] 
 
      `
       
