@@ -126,7 +126,7 @@ For this, I chose
     "content":`
 
 My Stained Glass pieces 
-    [check.jpg] designed by me    style. textAlign= "right";
+    [check.jpg] designed by me    
   [first.JPG] design by  <a href="https://www.etsy.com/shop/TEHAUSGlass"> TEHAUSGlass </a> 
    [IMG_4989.jpeg] design by <a href="https://himedel.tumblr.com/image/160350373355">himedel </a> 
   [last.JPG] design by <a href="https://himedel.tumblr.com/post/143030670265" target="_blank">himedel </a>
