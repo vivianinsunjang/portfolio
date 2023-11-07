@@ -140,7 +140,7 @@ My Stained Glass pieces
          
      {  "folder":"Languages",
     "name":"Language Play",
-    "tags":"Languages, Linguistics,Data Visualization, Patterns",
+    "tags":"Languages, Linguistics, Data Visualization, Patterns",
     "thumb":"thumb.png",
     "content":`
 
